@@ -22,6 +22,6 @@ That's it... I guess?
 ### ⚙ GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/dandan-kikoeru"><img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dandan-kikoeru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a>
-  <a href="https://github.com/dandan-kikoeru"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandan-kikoeru&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/dandan-kikoeru"><img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dandan-kikoeru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/dandan-kikoeru"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandan-kikoeru&layout=compact&theme=tokyonight&langs_count=8" /></a>
 </p>
